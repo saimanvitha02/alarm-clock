@@ -9,7 +9,7 @@ time: Time module in Python provides varied time-related functions. This module 
 
 datetime: The main focus of datetime is to form it simpler to access attributes of the thing associated with dates, times, and time zones.
 
-# Step1: Import Required Library
+# Step 1: Import Required Library
 
 ![image](https://user-images.githubusercontent.com/63820567/124387981-37266880-dcfe-11eb-9ed5-8672f0e2c180.png)
 
